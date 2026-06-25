@@ -29,6 +29,8 @@ export default function DetailPage() {
       <div className="detail-page">
         <div className="state-banner">Loading product…</div>
       </div>
+
+      
     )
   }
 
